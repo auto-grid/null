@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: resource
 metadata:
-  name: udp-flex-integration
+  name: null-package
   description: Null is a package for handling Null and Zero values in GoLang
   annotations:
     github.com/project-slug: Uplight-Inc/null
